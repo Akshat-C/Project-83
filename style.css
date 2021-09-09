@@ -1,0 +1,18 @@
+body {
+    background-image: url(Paint.jpg);
+    background-position: center;
+    background-size: cover;
+    color:maroon;
+}
+#my_canvas {
+    border: 5px solid darkslategrey;
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
+button {
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
+    background-color: orange;
+    color:purple;
+}
